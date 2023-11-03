@@ -11,6 +11,7 @@
 <p>A new line in our file!</p>
 <p>Another new line in our file!</p>
 <p>Paragraph</p>
+<p>New Paragraph</p>
 
 </body>
 </html>
